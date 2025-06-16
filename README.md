@@ -85,7 +85,7 @@ This project is proprietary and confidential. All rights reserved.
 For questions or collaboration requests:
 
 * 📧 Email: [choudaryhussainali@outlook.com](mailto:choudaryhussainali@outlook.com)
-* 🌐 GitHub: [@choudaryhussainali](https://github.com/choudaryhussainali)
+* 🌐 GitHub: [choudaryhussainali](https://github.com/choudaryhussainali)
 
 ---
 
